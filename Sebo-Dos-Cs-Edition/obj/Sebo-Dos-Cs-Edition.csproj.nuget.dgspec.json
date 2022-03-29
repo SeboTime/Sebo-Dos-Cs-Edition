@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\seboc\\Documents\\Code\\C#\\Sebo-Dos-Cs-Edition\\Sebo-Dos-Cs-Edition\\Sebo-Dos-Cs-Edition.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\seboc\\Documents\\Code\\C#\\Sebo-Dos-Cs-Edition\\Sebo-Dos-Cs-Edition\\Sebo-Dos-Cs-Edition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seboc\\Documents\\Code\\C#\\Sebo-Dos-Cs-Edition\\Sebo-Dos-Cs-Edition\\Sebo-Dos-Cs-Edition.csproj",
+        "projectName": "Sebo-Dos-Cs-Edition",
+        "projectPath": "C:\\Users\\seboc\\Documents\\Code\\C#\\Sebo-Dos-Cs-Edition\\Sebo-Dos-Cs-Edition\\Sebo-Dos-Cs-Edition.csproj",
+        "packagesPath": "C:\\Users\\seboc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seboc\\Documents\\Code\\C#\\Sebo-Dos-Cs-Edition\\Sebo-Dos-Cs-Edition\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\seboc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
